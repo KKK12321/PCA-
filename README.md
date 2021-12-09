@@ -4,7 +4,9 @@ A simple face recognition demo using PCA algorithm.
 # Use KNN classifier
 
 Using the ORL face database.
+
 The face database can be found at https://www.kaggle.com/tavarez/the-orl-database-for-training-and-testing?select=101_11.jpg
+
 一人十枚の写真データである。全部は50人の500枚写真がある。各写真の表情と角度が違う。その中の3人の写真データは以下となる。
 ![image text](https://github.com/KKK12321/PCA-face-recognition/blob/main/face%20sample%20data.png)
 
